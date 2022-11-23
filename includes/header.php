@@ -15,6 +15,7 @@
             <menu>
               <li><a href="index.php">Home</a></li>
               <li><a href="catalogue.php">Catalogue</a></li>
+              <li><a href="contact.php">Contact us</a></li>
               <li><a href="search.php">Search</a></li>
             </menu>
           </nav>
